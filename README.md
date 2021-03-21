@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
-<center>📚 [About me](https://www.notion.so/Shin-HyeYoung-f4bdcabd5a084138a5edb0f6f76e81e8)
-  **🛠 Tech Stack 🛠**
+<center>📚 [About me](https://www.notion.so/Shin-HyeYoung-f4bdcabd5a084138a5edb0f6f76e81e8)</center>
+<center> **🛠 Tech Stack 🛠** </center>
 
 Techs that I've used at least once
 
