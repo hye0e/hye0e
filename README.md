@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
-
+<div style="text-align: center">
 ## **🛠 Tech Stack 🛠**
 Techs that I've used at least once
 
@@ -11,6 +11,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Spring&logoColor=white"/></a> 
 
 📚[About me](https://www.notion.so/Shin-HyeYoung-f4bdcabd5a084138a5edb0f6f76e81e8)📚
+</div>
 <!--
 **hye0e/hye0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
