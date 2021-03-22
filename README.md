@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
 <div style="text-align: center">
-## **🛠 Tech Stack 🛠**
+## Tech Stack 🛠
 Techs that I've used at least once
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
