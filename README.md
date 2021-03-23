@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Spring&logoColor=white"/></a> 
 </p>
 <br><br>
-<h3 align="center">📚[About me](https://www.notion.so/Shin-HyeYoung-f4bdcabd5a084138a5edb0f6f76e81e8)📚</h3>
+<h3 align="center">
+  <a href="https://www.notion.so/Shin-HyeYoung-f4bdcabd5a084138a5edb0f6f76e81e8">📚About me📚</a>
+</h3>
 <!--
 **hye0e/hye0e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
