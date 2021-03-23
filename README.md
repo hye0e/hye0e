@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used mainly </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
@@ -10,6 +10,13 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white="/></a> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=Spring&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Spring&logoColor=white"/></a> 
+</p>
+<br><br>
+<p align="center"> I’m currently learning </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Java&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Java&logoColor=white"/></a> 
 </p>
 <br><br>
 <h3 align="center">
