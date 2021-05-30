@@ -4,7 +4,7 @@
 </div>
 <div align="center">
  
-<h3 align="center"> 🌿 GitHub stats 🌿 </h3>
+<h3 align="center"> 🌿 GitHub Stats 🌿 </h3>
   
 ![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=vue)
 </div>
