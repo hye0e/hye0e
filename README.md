@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
 </div>
 <div align="center">
+ 
+<h3 align="center"> 🌿 GitHub stats 🌿 </h3>
   
 ![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=vue)
 </div>
