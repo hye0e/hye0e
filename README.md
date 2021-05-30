@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
-![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=radical)
+<div>
+  ![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=vue)
+</div>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used mainly </p>
