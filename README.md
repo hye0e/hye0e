@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
 </p>
 <br><br>
+![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=radical)
+
 <p align="center"> I’m currently learning 🌱</p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
