@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
+![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=radical)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used mainly </p>
@@ -12,7 +13,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
 </p>
 <br><br>
-![Hyeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye0e&show_icons=true&theme=radical)
 
 <p align="center"> I’m currently learning 🌱</p>
 <p align="center">
