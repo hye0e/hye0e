@@ -1,7 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&hexcode&height=300&section=header&text=HyeYoung%20Shin&fontSize=90&animation=fadeIn)
-</div>
 <div align="center">
  
 <h3 align="center"> 🌿 GitHub Stats 🌿 </h3>
