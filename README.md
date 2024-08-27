@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> 
 </p>
 <br><br>
-## 🏅 Code Tree
+<h3 align="center"> 🏅 Code Tree </h3>
 <div align="center">
   
-[![코드트리|실력진단-msj09252](https://banner.codetree.ai/v1/banner/msj09252)](https://www.codetree.ai/profiles/msj09252)
+[![코드트리|실력진단-msj09252](https://banner.codetree.ai/v1/banner/msj09252)](https://www.codetree.ai/profiles/nanda5050)
 
 </div>
 <br><br>
