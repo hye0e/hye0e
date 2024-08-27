@@ -23,7 +23,7 @@
 <h3 align="center"> 🏅 Code Tree </h3>
 <div align="center">
   
-[![코드트리|실력진단-msj09252](https://banner.codetree.ai/v1/banner/msj09252)](https://www.codetree.ai/profiles/nanda5050)
+[![코드트리|실력진단-nanda5050](https://banner.codetree.ai/v1/banner/msj09252)](https://www.codetree.ai/profiles/nanda5050)
 
 </div>
 <br><br>
